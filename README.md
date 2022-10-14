@@ -1,1 +1,3 @@
-# webpack-threejs-template
+# pixijs-clean-templat
+
+PixiJS Template with GLSL Shader mousemove
